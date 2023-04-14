@@ -5,4 +5,4 @@ story file
 Dataset files
 explain video link : https://drive.google.com/file/d/14jeYOlBoNVUektKpGuKCF4_kch16F9Xx/view?usp=drivesdk
 
-html link : C:/Users/ELCOT/Desktop/hotel%20analysis/Radisson%20Hotels%20Analysis%20using%20Visualization%20Techniques/templates/index.html
+html link : file:///C:/Users/ELCOT/Desktop/hotel%20analysis/Radisson%20Hotels%20Analysis%20using%20Visualization%20Techniques/templates/index.html
